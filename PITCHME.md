@@ -21,11 +21,11 @@
 @title[What we do]
 ## To do: 
 
-- Learn to code for *free*
+- Learn to code for free
+- Curriculum that starts from zero and helps you grow
 - Build websites and apps together
-- Launch your portfolio
 - Earn free certificates
-- *Socialize and have fun*!
+- Socialize and have fun!
 
 ---
 @title[How to start]
@@ -43,7 +43,29 @@ Free Code Camp’s (FCC) HTML and CSS tutorials are good enough, but you may wan
 FCC’s jQuery and JavaScript modules are more of a refresher, so we recommend you start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_.
 
 ---
+@title[Tools you need to code]
+## Tools you need
+
+- Mac, PC, or Ubuntu
+- Internet Connection
+- Account at [CodePen](https://codepen.io/)
+- Text editor such as [Atom](https://atom.io/), [Brackets](http://brackets.io/), or [Sublime Text](http://www.sublimetext.com/)
+
+---
+## Get unstuck
+
+- Post a question to FCC Pensacola [Facebook group](https://www.facebook.com/groups/free.code.camp.pensacola/)
+- Chat with other campers around the world
+- Read the documentation online
+- Google
+- Search for answers on Stack Overflow
+- Don’t feel helpless. It’s a journey!
+
+---
 @title[Resources: free]
+## More helpful resources
+
+---
 ## CodeCademy 
 
 - Free
@@ -66,6 +88,17 @@ Create your account at [CodeCademy](https://www.codecademy.com/)
 
 <br />
 Create your account at [Odin Project](https://www.theodinproject.com/)
+
+---
+## Upskill
+
+- Free
+- Bootcamp style
+- Project-based lessons
+- Focuses on full-stack web development using HTML, CSS, Javascript, and Ruby on Rails
+
+<br />
+Create your account at [Upskill](https://upskillcourses.com/)
 
 ---
 ## Khan Academy
@@ -100,17 +133,6 @@ Create your account at [Codewars](https://www.codewars.com/)
 Create your account at [HackerRank](https://www.hackerrank.com/)
 
 ---
-## Upskill
-
-- Free
-- Bootcamp style
-- Project-based lessons
-- Focuses on full-stack web development using HTML, CSS, Javascript, and Ruby on Rails
-
-<br />
-Create your account at [Upskill](https://upskillcourses.com/)
-
----
 @title[Resources: paid]
 ## Learn, for a fee
 #### Premium paid tools
@@ -124,7 +146,8 @@ Create your account at [Upskill](https://upskillcourses.com/)
 ## Bootcamps online
 #### Tuition required
 
-- [Bloc](https://bloc.io) _(several FCC Pensacola members enroll here)_
+- [Bloc](https://bloc.io)
+  - several FCC Pensacola members enroll here
 - [App Academy](https://www.appacademy.io/)
 - [Flatiron School](https://flatironschool.com/online-campus/)
 - [Thinkful](https://www.thinkful.com/)
@@ -132,5 +155,5 @@ Create your account at [Upskill](https://upskillcourses.com/)
 - [First Step Coding](https://www.firststepcoding.com)
 
 ---
-### Questions?
+### Welcome!
 
