@@ -8,11 +8,11 @@
 ## About us
 @title[About FCC Pensacola]
 
-* @fa[fa-thumbtack] Local chapter of Free Code Camp
+* @fa[compass] Local chapter of Free Code Camp
 
 * @fa[globe] Global community of people learning to code
 
-* @fa[fa-js] Specializes in = ` [beginners, JavaScript]; `
+* @fa[js-square] Specializes in = ` [beginners, JavaScript]; `
 
 * @fa[user-plus] Anybody can ` .join()! `
 
