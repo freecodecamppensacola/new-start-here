@@ -37,6 +37,12 @@
 - For more detailed information, go to the [wiki on github](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ---
+@title[Tip]
+Free Code Camp’s (FCC) HTML and CSS tutorials are good enough, but you may want to supplement with [CodeCademy](https://www.codecademy.com/).
+
+FCC’s jQuery and JavaScript modules are more of a refresher, so we recommend you start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_.
+
+---
 @title[Resources: free]
 ## CodeCademy 
 
