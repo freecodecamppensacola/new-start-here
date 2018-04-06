@@ -5,13 +5,18 @@
 
 ---
 
-## Tips!
+## What is Free Code Camp Pensacola?
 
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+@fa[thumbtack] Local chapter of Free Code Camp
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
+@fa[thumbtack] Global community of people learning to code
+
+@fa[thumbtack] Specializes in = ` [beginners, JavaScript]; `
+
+@fa[thumbtack] Anybody can ` .join()! `
+
 
 ---
 
