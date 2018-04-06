@@ -1,2 +1,3 @@
 # new-start-here
-New? Start here. On boarding slide deck for new members
+
+[New? Start here](https://gitpitch.com/freecodecamppensacola/new-start-here/master#/). On boarding slide deck for new members
