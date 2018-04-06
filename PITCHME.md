@@ -19,7 +19,7 @@
 
 ---
 @title[What we do]
-## To do: 
+## What we do 
 
 - Learn to code for free |
 - Curriculum that starts from zero and helps you grow |
