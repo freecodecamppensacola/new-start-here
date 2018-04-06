@@ -25,7 +25,7 @@
 - Curriculum that starts from zero and helps you grow |
 - Build websites and apps together |
 - Earn free certificates |
-- Socialize and have fun!
+- Socialize and have fun! |
 
 ---
 @title[How to start]
@@ -34,7 +34,8 @@
 - Create your account at [Free Code Camp](https://www.freecodecamp.org/signin)
 - Take 2 mins to complete the [introduction challenge](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
 - Join the [Facebook group](https://www.facebook.com/groups/free.code.camp.pensacola/)
-- For more detailed information, go to the [wiki on github](https://github.com/freeCodeCamp/freeCodeCamp)
+
+For more detailed information, go to the [wiki on github](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ---
 @title[Tip]
