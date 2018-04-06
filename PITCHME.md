@@ -21,10 +21,10 @@
 @title[What we do]
 ## To do: 
 
-- Learn to code for free
-- Curriculum that starts from zero and helps you grow
-- Build websites and apps together
-- Earn free certificates
+- Learn to code for free |
+- Curriculum that starts from zero and helps you grow |
+- Build websites and apps together |
+- Earn free certificates |
 - Socialize and have fun!
 
 ---
@@ -38,16 +38,18 @@
 
 ---
 @title[Tip]
-Free Code Camp’s (FCC) HTML and CSS tutorials are good enough, but you may want to supplement with [CodeCademy](https://www.codecademy.com/).
+### A tip:
 
-FCC’s jQuery and JavaScript modules are more of a refresher, so we recommend you start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_.
+FCC's HTML and CSS tutorials are good enough. For an extra refresher, you could supplement with [CodeCademy](https://www.codecademy.com/).
+
+FCC’s jQuery and JavaScript modules are more advanced, so we recommend you start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_.
 
 ---
 @title[Tools you need to code]
 ## Tools you need
 
 - Mac, PC, or Ubuntu
-- Internet Connection
+- Internet connection
 - Account at [CodePen](https://codepen.io/)
 - Text editor such as [Atom](https://atom.io/), [Brackets](http://brackets.io/), or [Sublime Text](http://www.sublimetext.com/)
 
