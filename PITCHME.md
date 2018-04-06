@@ -94,18 +94,37 @@ Create your account at [Codewars](https://www.codewars.com/)
 Create your account at [HackerRank](https://www.hackerrank.com/)
 
 ---
-@title[Resources: paid]
-## CodeCademy 
+## Upskill
 
 - Free
-- Interactive
-- Very good step-by-step tutorials
-- Sometimes buggy, but usually great
-- Pre-requisite for many coding bootcamps
-- Includes foundations in HTML & CSS, JavaScript, jQuery, PHP, Python, and Ruby
+- Bootcamp style
+- Project-based lessons
+- Focuses on full-stack web development using HTML, CSS, Javascript, and Ruby on Rails
 
 <br />
-Create your account at [CodeCademy](https://www.codecademy.com/)
+Create your account at [Upskill](https://upskillcourses.com/)
 
+---
+@title[Resources: paid]
+## Learn, for a fee
+#### Premium paid tools
+
+- [Code School](https://www.codeschool.com/)
+- [Tree House](https://teamtreehouse.com/home)
+- [Skill Crush](https://skillcrush.com/)
+- [Udemy](https://www.udemy.com/)
+
+---
+## Bootcamps online
+#### Tuition required
+
+- [Bloc](https://bloc.io) _(several FCC Pensacola members enroll here)_
+- [App Academy](https://www.appacademy.io/)
+- [Flatiron School](https://flatironschool.com/online-campus/)
+- [Thinkful](https://www.thinkful.com/)
+- [Tech Academy](https://www.learncodinganywhere.com/)
+- [First Step Coding](https://www.firststepcoding.com)
+
+---
 ### Questions?
 
