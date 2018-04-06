@@ -1,7 +1,7 @@
 @title[Introduction]
-# Triangles
+# Welcome!
 
-### A GitPitch Presentation Template
+## Free Code Camp - Pensacola, FL
 
 ---
 
