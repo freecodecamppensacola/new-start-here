@@ -5,35 +5,26 @@
 
 ---
 
-## What is Free Code Camp Pensacola?
+## About us
+@title[About FCC Pensacola]
 
-<br>
-
-@fa[thumbtack] Local chapter of Free Code Camp
-
-@fa[thumbtack] Global community of people learning to code
-
-@fa[thumbtack] Specializes in = ` [beginners, JavaScript]; `
-
-@fa[thumbtack] Anybody can ` .join()! `
+- @fa[thumbtack] Local chapter of Free Code Camp (from Pensacola to Destin, Mobile to 
+- @fa[globe] Global community of people learning to code
+- @fa[js] Specializes in = ` [beginners, JavaScript]; `
+- @fa[user-plus] Anybody can ` .join()! `
 
 
 ---
+@title[What we do]
+## To do: 
 
-## Template Features
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Images |
-- Background Image Scaling |
-- Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+- Learn to code for free
+- Learn from each other
+- Build websites and apps together
+- Get experience by coding for real projects
+- Launch your portfolio
+- Build apps, master challenges, and earn free certificates
+- *Socialize and have fun*!
 
 ---
 
