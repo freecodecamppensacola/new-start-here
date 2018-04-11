@@ -66,7 +66,7 @@ The curriculum on FreeCodeCamp is good enough. Supplement with free [CodeCademy]
 FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_ for a basic foundation if you get stuck.
 
 ---
-@title[Resources: free]
+@title[Other local groups]
 ## Other local tech groups
 
 - [IT Gulf Coast](https://itgulfcoast.org/)
@@ -78,6 +78,19 @@ FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://
 - [Women Who Code Pensacola](https://www.meetup.com/Women-Who-Code-Pensacola/)
 - [Pensacola Developers](https://www.meetup.com/GulfCoastDevelopers/)
 - [iTenWired](http://www.itenwired.com/) (annual tech conference)
+
+---
+@title[Edit this deck]
+## Contribute to this slide deck
+
+1. Create a GitHub account
+2. Submit a [New Issue](https://github.com/freecodecamppensacola/new-start-here/issues) to this repo requesting access to edit
+3. ...wait a day or two... you will be added to the organization so you can edit the repo
+4. Create a new branch with your proposed changes
+5. Submit a [Pull Request](https://github.com/freecodecamppensacola/new-start-here/pulls) 
+
+<br>
+Need help? Check out this [Intro to GitHub](https://services.github.com/on-demand/intro-to-github/).
 
 ---
 @title[Resources: free]
