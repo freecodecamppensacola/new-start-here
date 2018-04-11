@@ -38,16 +38,6 @@
 For more detailed information, go to the [wiki on github](https://github.com/freeCodeCamp/freeCodeCamp)
 
 ---
-@title[Tip]
-## A Tip:
-
-#### HTML / CSS
-The curriculum on FreeCodeCamp is good enough. Supplement with free [CodeCademy](https://www.codecademy.com/) exercises for more practice.
-
-#### jQuery / JavaScript
-FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_ for a basic foundation if you get stuck.
-
----
 @title[Tools you need to code]
 ## Tools you need
 
@@ -66,11 +56,20 @@ FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://
 - Don’t feel helpless. It’s a journey!
 
 ---
+@title[Tip]
+## A Tip:
+
+#### HTML / CSS
+The curriculum on FreeCodeCamp is good enough. Supplement with free [CodeCademy](https://www.codecademy.com/) exercises for more practice.
+
+#### jQuery / JavaScript
+FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_ for a basic foundation if you get stuck.
+
+---
 @title[Resources: free]
 ## Other local tech groups
 
 - [IT Gulf Coast](https://itgulfcoast.org/)
-- iTenWired(http://www.itenwired.com/) (conference)
 - [Innovation Coast](http://www.innovationcoast.com/)
 - [Pensacola Digital Marketing Meetup](https://www.meetup.com/Pensacola-Digital-Marketing-Meetup/)
 - [Pensacola Startup/CoWork](https://www.meetup.com/Pensacola-cowork/)
@@ -78,6 +77,7 @@ FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://
 - [Pensacola JavaScript Users Group](https://www.meetup.com/Pensacola-javascript/)
 - [Women Who Code Pensacola](https://www.meetup.com/Women-Who-Code-Pensacola/)
 - [Pensacola Developers](https://www.meetup.com/GulfCoastDevelopers/)
+- [iTenWired](http://www.itenwired.com/) (annual tech conference)
 
 ---
 @title[Resources: free]
