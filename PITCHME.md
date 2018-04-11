@@ -22,7 +22,7 @@
 ## What we do 
 
 - Learn to code for free |
-- Curriculum that starts from zero and helps you grow |
+- Curriculum that starts from zero |
 - Build websites and apps together |
 - Earn free certificates |
 - Socialize and have fun! |
@@ -31,19 +31,11 @@
 @title[How to start]
 ## Get started 
 
-- Create your account at [Free Code Camp](https://www.freecodecamp.org/signin)
-- Take 2 mins to complete the [introduction challenge](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
+- Create account at [Free Code Camp](https://www.freecodecamp.org/signin)
+- Take 2 mins on the [introduction challenge](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
 - Join the [Facebook group](https://www.facebook.com/groups/free.code.camp.pensacola/)
-
+<br />
 For more detailed information, go to the [wiki on github](https://github.com/freeCodeCamp/freeCodeCamp)
-
----
-@title[Tip]
-### A tip:
-
-FCC's HTML and CSS tutorials are good enough. For an extra refresher, you could supplement with [CodeCademy](https://www.codecademy.com/).
-
-FCC’s jQuery and JavaScript modules are more advanced, so we recommend you start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_.
 
 ---
 @title[Tools you need to code]
@@ -59,10 +51,46 @@ FCC’s jQuery and JavaScript modules are more advanced, so we recommend you sta
 
 - Post a question to FCC Pensacola [Facebook group](https://www.facebook.com/groups/free.code.camp.pensacola/)
 - Chat with other campers around the world
-- Read the documentation online
-- Google
+- Google it
 - Search for answers on Stack Overflow
 - Don’t feel helpless. It’s a journey!
+
+---
+@title[Tip]
+## A Tip:
+
+#### HTML / CSS
+The curriculum on FreeCodeCamp is good enough. Supplement with free [CodeCademy](https://www.codecademy.com/) exercises for more practice.
+
+#### jQuery / JavaScript
+FreeCodeCamp modules for these are more advanced. Start at [CodeCademy](https://www.codecademy.com/) or [Upskill](https://upskillcourses.com/) _first_ for a basic foundation if you get stuck.
+
+---
+@title[Other local groups]
+## Other local tech groups
+
+- [IT Gulf Coast](https://itgulfcoast.org/)
+- [Innovation Coast](http://www.innovationcoast.com/)
+- [Pensacola Digital Marketing Meetup](https://www.meetup.com/Pensacola-Digital-Marketing-Meetup/)
+- [Pensacola Startup/CoWork](https://www.meetup.com/Pensacola-cowork/)
+- [Gulf Coast Science Cafe](https://www.meetup.com/Gulf-Coast-Science-Cafe/)
+- [Pensacola JavaScript Users Group](https://www.meetup.com/Pensacola-javascript/)
+- [Women Who Code Pensacola](https://www.meetup.com/Women-Who-Code-Pensacola/)
+- [Pensacola Developers](https://www.meetup.com/GulfCoastDevelopers/)
+- [iTenWired](http://www.itenwired.com/) (annual tech conference)
+
+---
+@title[Edit this deck]
+## Contribute to this slide deck
+
+1. Create a GitHub account
+2. Submit a [New Issue](https://github.com/freecodecamppensacola/new-start-here/issues) to this repo requesting access to edit
+3. ...wait a day or two... you will be added to the organization so you can edit the repo
+4. Create a new branch with your proposed changes
+5. Submit a [Pull Request](https://github.com/freecodecamppensacola/new-start-here/pulls) 
+
+<br>
+Need help? Check out this [Intro to GitHub](https://services.github.com/on-demand/intro-to-github/).
 
 ---
 @title[Resources: free]
